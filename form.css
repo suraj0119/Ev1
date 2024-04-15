@@ -1,0 +1,29 @@
+.main2{
+    margin-left: 40%;
+    margin-right: 30%;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 20px;
+    padding-left: 3%;
+}
+input{ 
+    height: 30px;
+    width: 360px;
+    border:1px solid gainsboro;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.btn{
+    height: 30px;
+    width: 360px;
+    background-color: rgb(57, 57, 201);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.material-symbols-outlined{
+    margin-left: 90%;
+}
